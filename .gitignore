@@ -115,6 +115,7 @@ models/
 
 # MLflow
 mlruns/
+mytracks/
 
 # DVC
 .dvc/cache/
