@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Henry/Desktop/PythonProject/mlflow_demo1/mlruns/104694027331157706
+creation_time: 1792197723870
+experiment_id: '104694027331157706'
+last_update_time: 1792197723870
+lifecycle_stage: active
+name: iris-classification

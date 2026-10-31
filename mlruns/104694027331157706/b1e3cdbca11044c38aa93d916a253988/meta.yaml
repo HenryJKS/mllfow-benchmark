@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Henry/Desktop/PythonProject/mlflow_demo1/mlruns/104694027331157706/b1e3cdbca11044c38aa93d916a253988/artifacts
+end_time: 1793117335980
+entry_point_name: ''
+experiment_id: '104694027331157706'
+lifecycle_stage: active
+run_id: b1e3cdbca11044c38aa93d916a253988
+run_name: skittish-rat-921
+run_uuid: b1e3cdbca11044c38aa93d916a253988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793117335934
+status: 3
+tags: []
+user_id: Henry

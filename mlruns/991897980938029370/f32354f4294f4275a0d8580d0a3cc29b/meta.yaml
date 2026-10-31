@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Henry/Desktop/PythonProject/mlflow_demo1/mlruns/991897980938029370/f32354f4294f4275a0d8580d0a3cc29b/artifacts
+end_time: 1793094803452
+entry_point_name: ''
+experiment_id: '991897980938029370'
+lifecycle_stage: active
+run_id: f32354f4294f4275a0d8580d0a3cc29b
+run_name: mysterious-slug-205
+run_uuid: f32354f4294f4275a0d8580d0a3cc29b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793094780869
+status: 3
+tags: []
+user_id: Henry

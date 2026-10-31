@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Henry/Desktop/PythonProject/mlflow_demo1/mlruns/991897980938029370/582a08a70aad48468722998bcafed302/artifacts
+end_time: 1793113641067
+entry_point_name: ''
+experiment_id: '991897980938029370'
+lifecycle_stage: active
+run_id: 582a08a70aad48468722998bcafed302
+run_name: debonair-foal-133
+run_uuid: 582a08a70aad48468722998bcafed302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793113625492
+status: 3
+tags: []
+user_id: Henry

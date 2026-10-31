@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Henry/Desktop/PythonProject/mlflow_demo1/mlruns/104694027331157706/5deacc684be74eb782fbad1a63a72792/artifacts
+end_time: 1793117072140
+entry_point_name: ''
+experiment_id: '104694027331157706'
+lifecycle_stage: active
+run_id: 5deacc684be74eb782fbad1a63a72792
+run_name: fun-perch-257
+run_uuid: 5deacc684be74eb782fbad1a63a72792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793117062622
+status: 4
+tags: []
+user_id: Henry

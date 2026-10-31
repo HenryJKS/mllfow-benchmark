@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Henry/Desktop/PythonProject/mlflow_demo1/mlruns/870444678973896064/1de7f713bdc948d2a7bf126e3ab666bf/artifacts
+end_time: 1790990167411
+entry_point_name: ''
+experiment_id: '870444678973896064'
+lifecycle_stage: active
+run_id: 1de7f713bdc948d2a7bf126e3ab666bf
+run_name: Demo
+run_uuid: 1de7f713bdc948d2a7bf126e3ab666bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790990160016
+status: 3
+tags: []
+user_id: Henry

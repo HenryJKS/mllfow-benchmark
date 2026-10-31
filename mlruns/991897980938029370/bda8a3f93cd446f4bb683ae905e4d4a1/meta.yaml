@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Henry/Desktop/PythonProject/mlflow_demo1/mlruns/991897980938029370/bda8a3f93cd446f4bb683ae905e4d4a1/artifacts
+end_time: 1793113206203
+entry_point_name: ''
+experiment_id: '991897980938029370'
+lifecycle_stage: active
+run_id: bda8a3f93cd446f4bb683ae905e4d4a1
+run_name: angry-fowl-93
+run_uuid: bda8a3f93cd446f4bb683ae905e4d4a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793113206136
+status: 4
+tags: []
+user_id: Henry

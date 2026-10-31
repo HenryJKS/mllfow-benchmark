@@ -1,0 +1,10 @@
+digest: b34fa2ca
+name: dataset
+profile: '{"num_rows": 30, "num_elements": 150}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "sepal.length", "required":
+  true}, {"type": "double", "name": "sepal.width", "required": true}, {"type": "double",
+  "name": "petal.length", "required": true}, {"type": "double", "name": "petal.width",
+  "required": true}, {"type": "integer", "name": "label", "required": true}]}'
+source: '{"tags": {"mlflow.user": "Henry", "mlflow.source.name": "C:\\Users\\Henry\\Desktop\\PythonProject\\mlflow_demo1\\main_model_petal.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

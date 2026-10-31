@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Henry/Desktop/PythonProject/mlflow_demo1/mlruns/991897980938029370/15a5ff6d8bc0417481e22c6efba7fc18/artifacts
+end_time: 1793112940028
+entry_point_name: ''
+experiment_id: '991897980938029370'
+lifecycle_stage: active
+run_id: 15a5ff6d8bc0417481e22c6efba7fc18
+run_name: serious-gull-581
+run_uuid: 15a5ff6d8bc0417481e22c6efba7fc18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793112939763
+status: 4
+tags: []
+user_id: Henry

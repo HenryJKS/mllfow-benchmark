@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Henry/Desktop/PythonProject/mlflow_demo1/mlruns/991897980938029370/33fe7b8bb53b4e689ce4deeadf48dafd/artifacts
+end_time: 1793113399417
+entry_point_name: ''
+experiment_id: '991897980938029370'
+lifecycle_stage: active
+run_id: 33fe7b8bb53b4e689ce4deeadf48dafd
+run_name: adaptable-panda-117
+run_uuid: 33fe7b8bb53b4e689ce4deeadf48dafd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793113379095
+status: 3
+tags: []
+user_id: Henry

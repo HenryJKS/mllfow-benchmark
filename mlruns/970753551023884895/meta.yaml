@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Henry/Desktop/PythonProject/mlflow_demo1/mlruns/970753551023884895
+creation_time: 1792708656568
+experiment_id: '970753551023884895'
+last_update_time: 1792708656568
+lifecycle_stage: active
+name: experiment_autologging

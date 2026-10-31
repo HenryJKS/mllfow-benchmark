@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Henry/Desktop/PythonProject/mlflow_demo1/mlruns/104694027331157706/875758a0cdf5467189bbab63c86a0a71/artifacts
+end_time: 1793116937169
+entry_point_name: ''
+experiment_id: '104694027331157706'
+lifecycle_stage: active
+run_id: 875758a0cdf5467189bbab63c86a0a71
+run_name: dashing-worm-27
+run_uuid: 875758a0cdf5467189bbab63c86a0a71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793116925892
+status: 4
+tags: []
+user_id: Henry

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Henry/Desktop/PythonProject/mlflow_demo1/mlruns/991897980938029370/c64428b7b99d4677996a7a4f15207142/artifacts
+end_time: 1793113244375
+entry_point_name: ''
+experiment_id: '991897980938029370'
+lifecycle_stage: active
+run_id: c64428b7b99d4677996a7a4f15207142
+run_name: marvelous-bee-867
+run_uuid: c64428b7b99d4677996a7a4f15207142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793113244306
+status: 4
+tags: []
+user_id: Henry

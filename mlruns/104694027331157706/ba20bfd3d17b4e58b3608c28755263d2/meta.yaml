@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Henry/Desktop/PythonProject/mlflow_demo1/mlruns/104694027331157706/ba20bfd3d17b4e58b3608c28755263d2/artifacts
+end_time: 1793116889643
+entry_point_name: ''
+experiment_id: '104694027331157706'
+lifecycle_stage: active
+run_id: ba20bfd3d17b4e58b3608c28755263d2
+run_name: invincible-wasp-762
+run_uuid: ba20bfd3d17b4e58b3608c28755263d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793116879237
+status: 4
+tags: []
+user_id: Henry

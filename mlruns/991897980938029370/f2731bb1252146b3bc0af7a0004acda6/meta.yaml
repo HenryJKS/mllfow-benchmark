@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Henry/Desktop/PythonProject/mlflow_demo1/mlruns/991897980938029370/f2731bb1252146b3bc0af7a0004acda6/artifacts
+end_time: 1793113531419
+entry_point_name: ''
+experiment_id: '991897980938029370'
+lifecycle_stage: active
+run_id: f2731bb1252146b3bc0af7a0004acda6
+run_name: angry-sloth-48
+run_uuid: f2731bb1252146b3bc0af7a0004acda6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793113522899
+status: 4
+tags: []
+user_id: Henry

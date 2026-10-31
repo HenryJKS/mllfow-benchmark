@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Henry/Desktop/PythonProject/mlflow_demo1/mlruns/991897980938029370/f83d7e1fe6924b8b85d90131eb949f95/artifacts
+end_time: 1793094603994
+entry_point_name: ''
+experiment_id: '991897980938029370'
+lifecycle_stage: active
+run_id: f83d7e1fe6924b8b85d90131eb949f95
+run_name: placid-eel-969
+run_uuid: f83d7e1fe6924b8b85d90131eb949f95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793094582309
+status: 3
+tags: []
+user_id: Henry

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Henry/Desktop/PythonProject/mlflow_demo1/mlruns/991897980938029370/27ec5b84dcd24f2ca85f37480332d425/artifacts
+end_time: 1793113221861
+entry_point_name: ''
+experiment_id: '991897980938029370'
+lifecycle_stage: active
+run_id: 27ec5b84dcd24f2ca85f37480332d425
+run_name: enthused-vole-983
+run_uuid: 27ec5b84dcd24f2ca85f37480332d425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793113221799
+status: 4
+tags: []
+user_id: Henry

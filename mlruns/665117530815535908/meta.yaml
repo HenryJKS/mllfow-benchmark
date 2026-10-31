@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Henry/Desktop/PythonProject/mlflow_demo1/mlruns/665117530815535908
+creation_time: 1792535648006
+experiment_id: '665117530815535908'
+last_update_time: 1792535648006
+lifecycle_stage: active
+name: experiment_multiple_runs

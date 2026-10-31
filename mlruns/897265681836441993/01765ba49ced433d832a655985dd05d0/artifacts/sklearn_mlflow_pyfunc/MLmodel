@@ -1,0 +1,27 @@
+artifact_path: sklearn_mlflow_pyfunc
+flavors:
+  python_function:
+    artifacts:
+      sklearn_model:
+        path: artifacts\sklearn_model.pkl
+        uri: sklearn_model.pkl
+      test_data:
+        path: artifacts\test.csv
+        uri: data/test.csv
+      train_data:
+        path: artifacts\train.csv
+        uri: data/train.csv
+    cloudpickle_version: 3.1.2
+    code: code
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.9.25
+    streamable: false
+mlflow_version: 2.13.0
+model_size_bytes: 97412
+model_uuid: fe8f32d836c645b9b1ede54ec1eb4b5f
+run_id: 01765ba49ced433d832a655985dd05d0
+utc_time_created: '2026-10-26 22:28:15.248791'
